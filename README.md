@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fatikhaaa
-- 👀 I’m interested in UI/UX Designer, Data Science and Front-End
+- 👀 I’m interested in UI/UX Designer, Data Science and Fullstack
 - 🌱 I’m currently learning UI/UX Design, Data Science and Web Development 
 
 - 📫 Contact me fatikhahudiaryanii@gmail.com
